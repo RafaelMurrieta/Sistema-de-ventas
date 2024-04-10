@@ -27,6 +27,11 @@
                         <img src="../assets/cart-fill.svg" alt="Carrito de compras">
                     </a>
                 </li>
+                <li class="nav-item mx-auto p-4">
+                    <a href="nav-link">
+                        <img src="../assets/person-fill.svg" alt="">
+                    </a>
+                </li>
             </div>
           </div>
         </div>
